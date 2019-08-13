@@ -12,6 +12,7 @@ console.log(names);
 
 let num = [1,2,3,4,5];
 console.log(num);
+// PARTIAL CREDIT : Use a loop to print each item in the array
 
 //exercise 3
 let names1 = ['A','B','C','D'];
